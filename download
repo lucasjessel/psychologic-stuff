@@ -1,0 +1,7 @@
+# Fichiers temporaires et paramètres locaux
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
